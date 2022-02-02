@@ -10,6 +10,8 @@ import UIKit
 class ViewController: UIViewController {
     
     var numero = 2
+    
+    var text = "Prueba"
 
     override func viewDidLoad() {
         super.viewDidLoad()
