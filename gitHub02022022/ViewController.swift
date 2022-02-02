@@ -13,6 +13,9 @@ class ViewController: UIViewController {
     
     var text = "Prueba"
 
+    
+    var textDos = "Prueba 3"
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
